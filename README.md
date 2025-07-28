@@ -28,13 +28,6 @@ The preprocessed dataset (segmented and standardized images) is publicly availab
 
 This dataset is ready to be used for skin cancer classification tasks or further medical image analysis.
 
-## 💡 Applications
-
-- **Skin lesion classification**
-- **Image-based medical diagnostics**
-- **Lesion detection model training**
-- **Auto-cropping or ROI enhancement**
-
 ## ⚙️ Tech Stack
 
 - TensorFlow / Keras
